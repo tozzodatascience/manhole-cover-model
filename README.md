@@ -27,10 +27,10 @@ This repository predicts the class of a Manhole Cover image from 12 different cl
 1. Clone project locally 
 
 ```bash
-git clone git@github.com:FiratSaritas/manhole-cover-model.git
+git clone git@github.com:tozzodatascience/manhole-cover-model.git
 ```
 
-2. Download model from Google Drive and add it to the folder `./model` here: https://drive.google.com/file/d/1dUkpPXQLrv5Pqc-UhyHiqaOGXek_gU8I/view?usp=sharing 
+2. Download model from Google Drive and add it to the folder `./model` here: https://drive.google.com/file/d/1Z5aVxR6qg0Nc5p_zvvIjZldBE3ybNpTX/view?usp=sharing
 
 
 3. Install required packages
